@@ -1,5 +1,7 @@
 Pending deployment until I decide to purchase a hosting service/domain. No need at the moment. Currently works with a localhost server.
 
+To start the app on localhost '3000' currently use 'npm run dev' in the main twitter-2 folder in your terminal.
+
 
 
 # Next.js + Tailwind CSS Example
